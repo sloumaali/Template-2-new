@@ -501,7 +501,7 @@
   .task-item:nth-child(2)
   {
    background-size: cover;
-   transition: transform 0.2s;
+   transition: transform 0.5s;
   }
   .task-item:nth-child(1)
   {
